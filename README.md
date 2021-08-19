@@ -19,3 +19,10 @@ Features:
 1. Paste server machine IP address into "host" field in [server.properties](android/assets/server.properties)
 2. In server machine command-line: `./gradlew :run:server`
 3. In Android Studio install the app on the physical device or emulator (or bundle an apk executable)
+
+# Team
+
+- Me
+- [dominik1999w](https://github.com/dominik1999w)
+- [Onchao](https://github.com/Onchao)
+- [ssalabura](https://github.com/ssalabura)
