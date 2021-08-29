@@ -1,6 +1,8 @@
 
 # The Maze
 
+Team project for university course.
+
 Online multiplayer game for Android. Players are spawned in a maze-like map generated on the fly. Before each round of game, one bullet is given to a random player (the rest have 0 bullets), and nobody knows who posesses the bullet. The round ends either when that single bullet hits somebody (in which case the player with the bullet gains points, and the dead player loses points) or when the round timer expires (in which case the player with the bullet loses points). Players can use mics in order to develop more elaborate strategies to the game.
 
 # Technical Details
