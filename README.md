@@ -25,8 +25,9 @@ Features:
 # How To Build
 
 1. Paste server machine IP address into "host" field in [server.properties](android/assets/server.properties)
-2. In server machine command-line: `./gradlew :run:server`
-3. In Android Studio install the app on the physical device or emulator (or bundle an apk executable)
+2. Modify "port-main" and "port-voice" fields in [server.properties](android/assets/server.properties) if the default ports (50051 and 50052) are in use by other processes.
+3. In server machine command-line: `./gradlew :run:server`
+4. In Android Studio install the app on the physical device or emulator (or bundle an apk executable)
 
 # Team
 
